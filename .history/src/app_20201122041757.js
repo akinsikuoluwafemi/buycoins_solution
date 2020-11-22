@@ -1,0 +1,1 @@
+alert('God is good')
